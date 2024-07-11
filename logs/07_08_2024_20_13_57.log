@@ -1,0 +1,6 @@
+[2024-07-08 20:13:58,822] 224 werkzeug - WARNING -  * Debugger is active!
+[2024-07-08 20:13:58,823] 224 werkzeug - INFO -  * Debugger PIN: 292-455-987
+[2024-07-08 20:14:00,054] 224 werkzeug - INFO - 127.0.0.1 - - [08/Jul/2024 20:14:00] "GET /predict HTTP/1.1" 200 -
+[2024-07-08 20:15:52,634] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Anush Amin\\OneDrive\\anush\\Internship_Project\\Athish-project\\app.py', reloading
+[2024-07-08 20:15:52,648] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Anush Amin\\OneDrive\\anush\\Internship_Project\\Athish-project\\app.py', reloading
+[2024-07-08 20:15:52,651] 224 werkzeug - INFO -  * Detected change in 'c:\\users\\anush amin\\onedrive\\anush\\internship_project\\athish-project\\app.py', reloading

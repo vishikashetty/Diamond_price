@@ -1,0 +1,9 @@
+[2024-07-09 08:54:59,058] 224 werkzeug - WARNING -  * Debugger is active!
+[2024-07-09 08:54:59,065] 224 werkzeug - INFO -  * Debugger PIN: 292-455-987
+[2024-07-09 08:55:23,800] 224 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 08:55:23] "[33mGET /admin HTTP/1.1[0m" 404 -
+[2024-07-09 08:55:23,957] 224 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 08:55:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[2024-07-09 08:55:30,534] 224 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 08:55:30] "GET / HTTP/1.1" 200 -
+[2024-07-09 08:55:45,645] 224 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 08:55:45] "GET /predict HTTP/1.1" 200 -
+[2024-07-09 08:56:11,366] 71 root - INFO - Dataframe Gathered
+[2024-07-09 08:56:11,724] 224 werkzeug - INFO -  * Detected change in 'C:\\Users\\Anush Amin\\anaconda3\\Lib\\site-packages\\sklearn\\base.py', reloading
+[2024-07-09 08:56:11,761] 224 werkzeug - INFO - 127.0.0.1 - - [09/Jul/2024 08:56:11] "POST /predict HTTP/1.1" 200 -

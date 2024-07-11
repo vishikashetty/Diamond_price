@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+ipykernel
+matplotlib
+seaborn
+pymongo
+dataclasses
+pathlib
+Flask
+
+-e .
